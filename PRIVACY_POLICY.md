@@ -1,6 +1,6 @@
 # TikDo — Privacy Policy
 
-**App name:** TikDo  
+**App name:** TikDo Downloader  
 **Developer:** duhalab  
 **Last updated:** September 6, 2026
 
@@ -38,7 +38,7 @@ TikDo is a TikTok video downloader app. It lets users paste a TikTok link, fetch
 
 - **TikTok:** The app fetches public TikTok video data. TikDo is not affiliated with TikTok/Bytedance.
 - **Google Fonts:** Fonts served by Google Fonts API; standard font delivery service.
-- **Flutter / Google Mobile Ads:** If ads are added in the future, their privacy policies will also apply.
+- **Flutter / Google Mobile Ads:** If ads are added later, their privacy policies will also apply.
 
 ---
 
@@ -74,13 +74,23 @@ For privacy questions or requests, please open an issue on the [GitHub repositor
 
 ---
 
-## 10. Play Store Compliance
+## Recommended Next Steps for Play Store
 
-This privacy policy is designed to meet Google Play Store requirements for data safety disclosures:
+1. **Host this policy publicly** — GitHub Pages, Firebase Hosting, or your website.
+2. **Add the link in Play Console** under "Privacy Policy" URL.
+3. **Add the same link in-app** — Settings page → "Privacy Policy" button opening the URL.
+4. **Disclose data usage honestly** in the Play Console Data Safety form:
+   - Data is **not** collected/shared
+   - Files are saved **locally**
+   - History is **local-only**
+   - Clipboard access is **user-initiated**
 
-- ✅ Data is **not** collected or shared with third parties
-- ✅ Files are saved **locally** to user's device
-- ✅ Download history is **local-only** (SharedPreferences)
-- ✅ Clipboard access is **user-initiated** (on-demand)
-- ✅ No personal information is transmitted to external servers
-- ✅ HTTPS is used for all network requests
+---
+
+## Implementation Notes
+
+To enhance user trust and meet Play Store requirements:
+
+- Add a **Privacy Policy** button in the Settings screen that opens this URL
+- Consider adding a basic `assets/privacy_policy.html` as a link placeholder in the app
+- Ensure the in-app button links to the hosted version of this policy
