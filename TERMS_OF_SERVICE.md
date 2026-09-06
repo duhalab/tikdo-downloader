@@ -1,8 +1,7 @@
 # TikDo Downloader — Terms of Service
 
 **App name:** TikDo Downloader  
-**Developer:** Md Eiaser Hosen  
-**Contact:** [https://www.facebook.com/eiaserkonok.dev](https://www.facebook.com/eiaserkonok.dev)  
+**Developer:** Duha Lab  
 **Last updated:** September 6, 2026
 
 ---
@@ -100,9 +99,7 @@ These terms are governed by the laws applicable to the jurisdiction where the de
 
 ## 12. Contact
 
-For questions or concerns about these terms, please contact:
-- **Facebook:** [https://www.facebook.com/eiaserkonok.dev](https://www.facebook.com/eiaserkonok.dev)
-- **GitHub:** [https://github.com/duhalab/tikdo-downloader](https://github.com/duhalab/tikdo-downloader)
+For questions or concerns about these terms, please open an issue on the [GitHub repository](https://github.com/duhalab/tikdo-downloader).
 
 ---
 
