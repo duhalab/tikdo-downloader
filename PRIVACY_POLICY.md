@@ -1,4 +1,4 @@
-# TikDo — Privacy Policy
+# TikDo Downloader — Privacy Policy
 
 **App name:** TikDo Downloader  
 **Developer:** duhalab  
