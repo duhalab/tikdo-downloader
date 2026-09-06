@@ -1,7 +1,7 @@
-# TikDo Downloader — Privacy Policy
+# TikDo — Privacy Policy
 
 **App name:** TikDo Downloader  
-**Developer:** duhalab  
+**Developer:** Duha Lab  
 **Last updated:** September 6, 2026
 
 ---
